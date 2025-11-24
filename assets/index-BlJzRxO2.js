@@ -580,7 +580,7 @@ If it declares any Font Awesome CSS pseudo-elements, they will not be rendered a
   display:flex,
   flex-direction:column,
   }
-  `,id:""})}),N.jsx("li",{children:N.jsx("div",{className:"container1",children:N.jsx("h1",{children:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde, consequatur."})})}),N.jsx("li",{children:N.jsx("textarea",{style:{height:"150px"},name:"",placeholder:`
+  `,id:""})}),N.jsx("li",{children:N.jsx("div",{className:"container1",children:N.jsx("h1",{children:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde, consequatur."})})}),N.jsx("li",{children:N.jsx("textarea",{style:{height:"200px"},name:"",placeholder:`
   $asosiy:white;
 $ikkilamchi:black;
 
