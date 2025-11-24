@@ -575,7 +575,7 @@ If it declares any Font Awesome CSS pseudo-elements, they will not be rendered a
     background: white;
   }</style>
    <div class="box"><div class="area"></div><div class="area"></di v></div>
-`,id:""}),N.jsx("p",{children:"justifyContent:space-between"}),N.jsx("p",{})]}),N.jsx("li",{children:N.jsxs("div",{style:{display:"flex",width:"100vW",justifyContent:"space-evenly"},children:[N.jsx("h2",{children:"Text"}),N.jsx("h2",{children:"Text"})]})}),N.jsx("li",{children:N.jsx("textarea",{style:{height:"100px"},name:"",placeholder:`
+`,id:""}),N.jsx("p",{children:"justifyContent:space-between"}),N.jsx("p",{})]}),N.jsx("li",{children:N.jsxs("div",{style:{display:"flex",width:"100vW",justifyContent:"space-evenly"},children:[N.jsx("h2",{children:"Text"}),N.jsx("h2",{children:"Text"})]})}),N.jsx("li",{children:N.jsx("textarea",{style:{height:"150px"},name:"",placeholder:`
   .box{
   display:flex,
   flex-direction:column,
